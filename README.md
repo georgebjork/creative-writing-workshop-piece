@@ -45,4 +45,4 @@ I tagged some pictures below so you could see what the cabin actually is like to
 
 ![The Living Room](https://github.com/georgebjork/creative-writing-workshop-piece/blob/main/img/IMG_3979.jpeg?raw=true)
 
-![The Lower Living room]([img\IMG_3982.jpeg](https://github.com/georgebjork/creative-writing-workshop-piece/blob/main/img/IMG_3982.jpeg?raw=true))
+![The Lower Living room](https://github.com/georgebjork/creative-writing-workshop-piece/blob/main/img/IMG_3982.jpeg?raw=true)
