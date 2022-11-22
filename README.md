@@ -41,8 +41,8 @@ I tagged some pictures below so you could see what the cabin actually is like to
 <br/>
 
 
-![Outside the Cabin](.\img\IMG_0675.jpeg)
+![Outside the Cabin](img\IMG_0675.jpeg)
 
-![The Living Room](.\img\IMG_3979.jpeg)
+![The Living Room](img\IMG_3979.jpeg)
 
-![The Lower Living room](.\img\IMG_3982.jpeg)
+![The Lower Living room](img\IMG_3982.jpeg)
