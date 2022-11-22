@@ -1,11 +1,11 @@
-# Cabin
-
-## Table of contents
+### Table of contents
   - [The Journey](#the-journey)
   - [Arrival](#Arrival)
   - [Evening](#evening)
   - [Departure](#depature)
   - [Reflection](#reflection)
+
+# Cabin
 
 ### The Journey
 
