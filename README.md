@@ -23,3 +23,9 @@ About 2 hours have now passed since we arrived. The cabin has slowly been warmin
 ### Departure
 
 I wake up to sunlight pouring in through the windows of the cabin. The fire is still burning in the fireplace and my dad is up making breakfast. He’s making eggs and sausage in the skillet and already has a cup of coffee ready for me. My sister wakes up 20 minutes later and we all eat breakfast together. After breakfast, we throw our paper plates in the fireplace and start beginning to clean up. We first pack up all of our things and then start sweeping and dusting, all the while letting the fires slowly burn out. We’re out the door by 10:30, and ready to go. It snowed again last night and our footprints in the snow are now almost entirely gone. It becomes even more evident as we reach our car which now has a mountain fresh of snow on it. We brush off the snow and head back down the hill and get back on the road. We stop one more time at Wapiti Woolies for more smoothies before we finish our trek home. As we drive, we slowly regain cell services. Texts and notifications slowly begin to funnel in as we return into the real world. Our annual trip is over, but we’re looking forward to doing it again. 
+
+
+
+### Reflection 
+
+As you may have noticed, I wrote this piece in an unfamilar format for a lot of people. I took heavy inspiration from the first prompt where it was to adapt a form of writing you're familiar with a differnt style of writing. I chose to adapt technical writing into creative writing. Technical writing is a form of writing I interact with almost everyday. This document called a markdown document and is used to describe large code bases. Here is an example of what this might look like in pracice: [Example]('https://github.com/microsoft/terminal'). Because these documents are generally used to describe something, I got inspriation to describe a memory in my life, which was going to the family cabin every winter my sister and dad. 
