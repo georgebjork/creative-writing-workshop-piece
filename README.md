@@ -1,7 +1,11 @@
 # Cabin
 
 ## Table of contents
-
+  - [The Journey](#The Journey)
+  - [Arrival](#Arrival)
+  - [Evening](#evening)
+  - [Departure](#implmented-features)
+  - [Reflection](#features-in-progress)
 
 ### The Journey
 
